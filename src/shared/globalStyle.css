@@ -1,6 +1,6 @@
 .screen-container{
-    width: calc(100%-100px);
+    width: 100%;
     height: 100%;
-    background-color: blueviolet;
+    background-color: #5072ac;
     border-radius: 30px;
 }
